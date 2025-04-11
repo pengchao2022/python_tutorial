@@ -19,3 +19,5 @@ while True:
     else:
         print(f"恭喜你猜对了，这个数字就是:{number}")
         print(f"您总共猜了{guesses}次")
+        break
+    
