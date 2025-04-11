@@ -44,6 +44,13 @@ def quzheng(x, y):
 result = quzheng(46, 3)
 print(result)
 
+#定义创建名字函数
+
+def create_name(first, last):
+    first = first.capitalize()
+    last = last.capitalize()
+    return first + " " + last
+print(create_name('allen', 'ma'))
 
 
 
