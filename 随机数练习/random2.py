@@ -18,3 +18,4 @@ while True:
         print("您猜的数字太大了")
     else:
         print(f"恭喜你猜对了，这个数字就是:{number}")
+        print(f"您总共猜了{guesses}次")
