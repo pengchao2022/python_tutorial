@@ -12,5 +12,7 @@ lena = 2 * b * r
 
 print(f"圆的周长为：{lena}")
 
+#使用round内建函数小数点后保留2 位小数
+
 print(f"圆的周长在四舍五入后的值为：{round(lena,2)}")
 
