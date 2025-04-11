@@ -17,4 +17,5 @@ elif operator == '%':
 else:
     print("运算符号输入有误！")
 print(f"运算结果是：{result}")
+print(f"运算结果以整数的方式输出：{round(result)}")
 
