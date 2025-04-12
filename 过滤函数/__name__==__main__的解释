@@ -1,0 +1,4 @@
+import name1
+
+name1.printme("I love China")
+
