@@ -3,3 +3,5 @@
 import letterchange
 
 letterchange.letterch("allenma")
+letterchange.letterch("aaaaaaa")
+letterchange.letterch("zzzzzz")
